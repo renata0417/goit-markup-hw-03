@@ -165,7 +165,7 @@ button {
   color: var(--accent-color);
 }
 
-.footer-addres-map {
+.footer-address-map {
   display: flex;
   padding-bottom: 9px;
   font-style: normal;
@@ -388,7 +388,6 @@ ul.team-list {
 .portfolio-button-list {
   display: flex;
   align-items: center; 
-  padding: 6px 22px;
   justify-content: center;
   margin-bottom: 50px;
 }
